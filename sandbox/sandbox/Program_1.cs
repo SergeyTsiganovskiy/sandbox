@@ -10,6 +10,13 @@ namespace sandbox
             Console.WriteLine("Bay");
             Console.WriteLine("Hello");
             Console.WriteLine("Bay");
+
+            Console.WriteLine(Method1());
+        }
+
+        private static int Method1()
+        {
+            return 1;
         }
     }
 }
