@@ -8,6 +8,8 @@ namespace sandbox
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Bay");
+            Console.WriteLine("Hello");
+            Console.WriteLine("Bay");
             Console.WriteLine(Method1());
         }
 
